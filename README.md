@@ -6,6 +6,17 @@ KDE Plasma 6 jest pierwszym celem, nie nazwą produktu. W tym repozytorium są s
 
 Później, bez plików tutaj: GTK, Firefox, edytory spoza Kate, inne terminale. Dopóki nie ma osobnej implementacji, nie dokładamy atrap.
 
+## Podgląd
+
+Tapety 3840×2160, zmniejszone do podglądu. Pełne pliki są w `wallpapers/`.
+
+![Bursztyn bałtycki](previews/BursztynBaltycki.jpg)
+
+![Cegła i wapień](previews/CeglaWapien.jpg)
+
+![Pole i las](previews/PoleLas.jpg)
+
+
 ## Bursztyn bałtycki
 
 Ciemny. Morze w tle, bursztyn tylko jako akcent.
