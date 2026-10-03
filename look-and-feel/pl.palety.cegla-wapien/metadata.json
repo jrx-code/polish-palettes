@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "jrx-code@users.noreply.github.com",
+        "Name": "jrx-code"
+      }
+    ],
+    "Category": "Global Themes",
+    "Description": "Jasny motyw globalny: tynk, wapień, cegła. Ikony zostają Breeze.",
+    "EnabledByDefault": true,
+    "Id": "pl.palety.cegla-wapien",
+    "License": "CC-BY-SA-4.0",
+    "Name": "Cegła i wapień",
+    "Version": "1.0",
+    "Website": "https://github.com/jrx-code/polish-palettes"
+  },
+  "X-KDE-fallbackPackage": "org.kde.breeze.desktop"
+}

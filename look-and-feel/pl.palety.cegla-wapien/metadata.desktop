@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment=Jasny motyw globalny: tynk, wapień, cegła. Ikony zostają Breeze.
+Encoding=UTF-8
+Name=Cegła i wapień
+Type=Service
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=jrx-code
+X-KDE-PluginInfo-Email=jrx-code@users.noreply.github.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC-BY-SA-4.0
+X-KDE-PluginInfo-Name=pl.palety.cegla-wapien
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/jrx-code/polish-palettes
+X-Plasma-MainScript=defaults
+
+[Wallpaper]
+defaultWallpaperTheme=CeglaWapien
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
