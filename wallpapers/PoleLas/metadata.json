@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "jrx-code@users.noreply.github.com",
+        "Name": "jrx-code"
+      }
+    ],
+    "Id": "PoleLas",
+    "License": "CC-BY-SA-4.0",
+    "Name": "Pole i las",
+    "Description": "Jasne niebo, żyto na horyzoncie, ciemny las u dołu."
+  },
+  "X-KDE-PlasmaImageWallpaper-AccentColor": "#C4A15C"
+}

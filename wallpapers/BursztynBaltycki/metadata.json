@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "jrx-code@users.noreply.github.com",
+        "Name": "jrx-code"
+      }
+    ],
+    "Id": "BursztynBaltycki",
+    "License": "CC-BY-SA-4.0",
+    "Name": "Bursztyn bałtycki",
+    "Description": "Ciemna tapeta: horyzont nad wodą, wąski bursztynowy blask."
+  },
+  "X-KDE-PlasmaImageWallpaper-AccentColor": "#C4842E"
+}

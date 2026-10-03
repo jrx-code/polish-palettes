@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "jrx-code@users.noreply.github.com",
+        "Name": "jrx-code"
+      }
+    ],
+    "Id": "CeglaWapien",
+    "License": "CC-BY-SA-4.0",
+    "Name": "Cegła i wapień",
+    "Description": "Jasna tapeta: tynk i wapień, cienka ciepła linia cegły."
+  },
+  "X-KDE-PlasmaImageWallpaper-AccentColor": "#A34538"
+}
