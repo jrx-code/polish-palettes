@@ -16,6 +16,17 @@ Tapety 3840×2160, zmniejszone do podglądu. Pełne pliki są w `wallpapers/`.
 
 ![Pole i las](previews/PoleLas.jpg)
 
+## Dekale
+
+Geometria korzysta z palety; Łowicz, Kraków, Kaszuby i Podhale to osobne naklejki, nie system kolorów.
+
+![Dekale](previews/dekale.jpg)
+
+- `decals/lowicz.png`
+- `decals/krakow.png`
+- `decals/kaszuby.png`
+- `decals/podhale.png`
+
 
 ## Bursztyn bałtycki
 
