@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "name": "Bursztyn bałtycki",
+    "revision": 1,
+    "copyright": [
+      "SPDX-FileCopyrightText: 2026 jrx-code <jrx-code@users.noreply.github.com>"
+    ],
+    "license": "SPDX-License-Identifier: CC-BY-SA-4.0"
+  },
+  "editor-colors": {
+    "BackgroundColor": "#14303C",
+    "CurrentLine": "#1E4654",
+    "IconBorder": "#1E4654",
+    "LineNumbers": "#D5E3E4",
+    "CurrentLineNumber": "#F7F4EE",
+    "TextSelection": "#7A431C",
+    "SearchHighlight": "#3E6B78",
+    "ReplaceHighlight": "#C4842E",
+    "CodeFolding": "#E4C98A",
+    "BracketMatching": "#E4C98A",
+    "IndentationLine": "#3E6B78",
+    "Separator": "#3E6B78",
+    "SpellChecking": "#C4842E",
+    "TabMarker": "#3E6B78",
+    "WordWrapMarker": "#3E6B78",
+    "ModifiedLines": "#C4842E",
+    "SavedLines": "#3E6B78",
+    "MarkError": "#C4842E",
+    "MarkWarning": "#E4C98A",
+    "MarkBookmark": "#E4C98A",
+    "MarkBreakpointActive": "#C4842E",
+    "MarkBreakpointReached": "#E4C98A",
+    "MarkBreakpointDisabled": "#3E6B78",
+    "MarkExecution": "#D5E3E4",
+    "TemplateBackground": "#1E4654",
+    "TemplatePlaceholder": "#3E6B78",
+    "TemplateFocusedPlaceholder": "#E4C98A",
+    "TemplateReadOnlyPlaceholder": "#7A431C"
+  },
+  "text-styles": {
+    "Normal": {
+      "text-color": "#F7F4EE",
+      "selected-text-color": "#F7F4EE",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Keyword": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": true,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Function": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Variable": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "ControlFlow": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": true,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Operator": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "BuiltIn": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Extension": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Preprocessor": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Attribute": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "DataType": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "DecVal": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "BaseN": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Float": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Constant": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": true,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Char": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "SpecialChar": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "String": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "VerbatimString": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "SpecialString": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Import": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Comment": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": true,
+      "underline": false,
+      "strike-through": false
+    },
+    "Documentation": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": true,
+      "underline": false,
+      "strike-through": false
+    },
+    "Annotation": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "CommentVar": {
+      "text-color": "#EFE6D2",
+      "selected-text-color": "#EFE6D2",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "RegionMarker": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#F7F4EE",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false,
+      "background-color": "#1E4654"
+    },
+    "Information": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Warning": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    },
+    "Alert": {
+      "text-color": "#F7F4EE",
+      "selected-text-color": "#F7F4EE",
+      "bold": true,
+      "italic": false,
+      "underline": false,
+      "strike-through": false,
+      "background-color": "#7A431C"
+    },
+    "Error": {
+      "text-color": "#E4C98A",
+      "selected-text-color": "#E4C98A",
+      "bold": false,
+      "italic": false,
+      "underline": true,
+      "strike-through": false
+    },
+    "Others": {
+      "text-color": "#D5E3E4",
+      "selected-text-color": "#D5E3E4",
+      "bold": false,
+      "italic": false,
+      "underline": false,
+      "strike-through": false
+    }
+  },
+  "custom-styles": {}
+}
