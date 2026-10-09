@@ -1,6 +1,6 @@
 # Polskie palety (polish-palettes)
 
-Polski odpowiednik Norda: trzy schematy i nic więcej. Nie flaga, nie wycinanka łowicka. Zasada użycia to 70% tła, 20% powierzchni, 10% akcentu. Akcent nie idzie na duże płaszczyzny.
+Polski odpowiednik Norda: trzy schematy i nic więcej. Nie flaga, nie wycinanka łowicka. Zasada użycia to 70% tła, 20% powierzchni, 10% akcentu. Akcent nie idzie na duże płaszczyzny. Hexy palet w tabelach poniżej są wiążące; korekty kontrastu są opisane przy każdym schemacie.
 
 KDE Plasma 6 jest pierwszym celem, nie nazwą produktu. W tym repozytorium są schematy kolorów Plasma, tapety, Konsole, Kate i motyw globalny (look-and-feel).
 
@@ -192,7 +192,6 @@ plasma-apply-lookandfeel --apply pl.palety.pole-las
 .
 ├── install.sh
 ├── README.md
-├── PROMPT.md
 ├── color-schemes/
 │   ├── BursztynBałtycki.colors
 │   ├── CeglaWapien.colors
