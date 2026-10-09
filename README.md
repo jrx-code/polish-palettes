@@ -135,12 +135,14 @@ Ręcznie, sam schemat kolorów:
 ```bash
 mkdir -p ~/.local/share/color-schemes
 cp color-schemes/*.colors ~/.local/share/color-schemes/
-plasma-apply-colorscheme BursztynBałtycki
+plasma-apply-colorscheme BursztynBaltycki
 plasma-apply-colorscheme CeglaWapien
 plasma-apply-colorscheme PoleLas
 ```
 
-Albo Ustawienia systemowe → Kolory. Identyfikator to pole `ColorScheme` w pliku (u bursztynu ze znakiem ł).
+Albo Ustawienia systemowe → Kolory. Identyfikator to pole `ColorScheme` w pliku, wszędzie w ASCII (`BursztynBaltycki`, jak w Konsole, Kate, tapecie i motywie globalnym).
+
+Kto zastosował wcześniej schemat `BursztynBałtycki` (ze znakiem ł), musi po instalacji wybrać „Bursztyn bałtycki” ponownie; stary plik `~/.local/share/color-schemes/BursztynBałtycki.colors` można usunąć.
 
 Tapety to paczki Plasma (`KPackageStructure`: `Plasma/Wallpaper`), obraz `contents/images/3840x2160.png`, bez tekstu, tylko z hexów danego schematu. Podgląd w `contents/screenshot.png` jest zmniejszeniem tej samej tapety, nie zrzutem pulpitu.
 
@@ -194,7 +196,7 @@ plasma-apply-lookandfeel --apply pl.palety.pole-las
 ├── README.md
 ├── PROMPT.md
 ├── color-schemes/
-│   ├── BursztynBałtycki.colors
+│   ├── BursztynBaltycki.colors
 │   ├── CeglaWapien.colors
 │   └── PoleLas.colors
 ├── konsole/
