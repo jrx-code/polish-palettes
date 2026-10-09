@@ -21,7 +21,7 @@ cp -a "$ROOT"/wallpapers/. "$DATA/wallpapers/"
 
 cat <<MSG
 Zainstalowano do $DATA
-Schemat kolorów:  plasma-apply-colorscheme BursztynBałtycki
+Schemat kolorów:  plasma-apply-colorscheme BursztynBaltycki
 Motyw globalny:   plasma-apply-lookandfeel --apply pl.palety.bursztyn-baltycki
 Tapeta (plik):    plasma-apply-wallpaperimage "$DATA/wallpapers/BursztynBaltycki/contents/images/3840x2160.png"
 
